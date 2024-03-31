@@ -2,7 +2,7 @@
 
 X)
 
-Raportin kirjoittaminen
+# Raportin kirjoittaminen
 
 Raportoi selkeästi, mitä teit ja mitä sen seurauksena tapahtui. Kirjoita raporttia samanaikaisesti toimien kanssa. Muistiinpanot auttavat selvittämään teknisiä ongelmia ja järjestämään ajatuksia.
 
@@ -32,3 +32,24 @@ Raportoi vain se, mitä todella tapahtui. Älä plagioi. Työn tulisi olla pää
 
 Lähteet:
 https://github.com/Linux88888/LInuxkurssi/wiki/H1-Linux-kurssi
+
+
+
+## Salt komennot lokaalisti:
+
+Yleisesti Saltia käytetään useiden orja koneiden hallintaan. 
+Tärkeimmät komennot ovat: pkg, file, service, user ja cmd.
+Ohjeissa kerrotaan salt minionin asennus linuxissa ja yleisimmät komennot yllä mainittuihin liittyen.
+
+
+### Websivun tekeminen Githubissa:
+
+Rekisteröi github tunnus.
+Tee uusi repository
+Tee md eli markdown tiedosto ja kirjoita tähän ensimmäisen sivusi sisätlö.
+# tekee ensimmäisen otsikon
+## tekee toisen otsikon 
+
+#### a)
+Ladattiin Salt windowsille versio 64: https://docs.saltproject.io/salt/install-guide/en/latest/topics/downloads.html
+Asennuksessa tarvitsi vain klikkailla seuraava.
